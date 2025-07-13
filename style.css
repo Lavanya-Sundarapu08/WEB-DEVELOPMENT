@@ -1,0 +1,17 @@
+.box {
+    background-color: aquamarine;
+    height: 70px;
+    padding: 40px;
+    border: solid 5px rgb(83, 59, 105);
+    margin: 30px;
+    box-sizing:border-box;
+    /* margin collpase concept */
+}
+
+.box1 {
+    background-color: rgb(191, 146, 234);
+    margin: 50px;
+    height: 70px;
+    padding: 40px;
+    box-sizing: content-box;
+}
